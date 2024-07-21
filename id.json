@@ -1,1 +1,7 @@
-1
+[
+  {"utils": "ca-app-pub-3940256099942544/103317371"},
+  {"appManager": "ca-app-pub-3940256099942544/5224354917"},
+  {"perapp": "com.nemovpn.proxy"},
+  {"route": "404 VPN"},
+  {"ban": "ca-app-pub-3940256099942544/630097811"}
+]
