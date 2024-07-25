@@ -11,7 +11,4 @@
   {"subEdit": "vless://f1921949-5aa1-4128-bf79-acf168f0f483@104.18.10.207:80?type=ws&path=%2F&host=vip2.khunaungphyo.shop&security=none#TH-TRUE-NOPRO-02"},
   {"subEdit": "vless://b1465177-6271-49c6-bd38-e39657bebd32@104.18.10.207:80?type=ws&path=%2F&host=vip3.khunaungphyo.shop&security=none#TH-TRUE-NOPRO-03"},
   {"subEdit": "vless://71e9f026-1940-4d7e-a431-765acd61654f@104.18.10.207:80?type=ws&path=%2F&host=vip4.khunaungphyo.shop&security=none#TH-TRUE-NOPRO-04"},
-  {"subEdit": "trojan://7772bb24-976a-45ca-aa76-f4f1b7f50923@104.18.10.207:80?security=none&type=ws&headerType=none&path=%252Fanything%252Ffreevpn.us-fkqc4z%252Ftrojan&host=v2-hk-1.v2ray.cc#JP-NORMAL-SERVER"},
-  {"subEdit": "trojan://7772bb24-976a-45ca-aa76-f4f1b7f50923@104.18.10.207:80?security=none&type=ws&headerType=none&path=%252Fanything%252Ffreevpn.us-9ku8j3%252Ftrojan&host=v2-us-2.v2ray.cc#US-NORMAL-SERVER"},
-  {"subEdit": "trojan://7772bb24-976a-45ca-aa76-f4f1b7f50923@104.18.10.207:80?security=none&type=ws&headerType=none&path=%252Fanything%252Ffreevpn.us-dwt7ov%252Ftrojan&host=v2-uk-1.v2ray.cc#UK-NORMAL-SERVER"},
 ]
