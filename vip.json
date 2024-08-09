@@ -8,7 +8,7 @@
   {"subEdit": "vless://f1921949-5aa1-4128-bf79-acf168f0f483@172.66.0.157:80?type=ws&path=%2F&host=vip2.khunaungphyo.shop&security=none#TH-TRUE-NOPRO-02"},
   {"subEdit": "vless://b1465177-6271-49c6-bd38-e39657bebd32@172.66.0.157:80?type=ws&path=%2F&host=vip3.khunaungphyo.shop&security=none#TH-TRUE-NOPRO-03"},
   {"subEdit": "vless://377826be-0a28-411b-bf56-0f6c12518471@43.228.85.187:8000?type=grpc&serviceName=vip1.khunaungphyo.shop&authority=&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=connect.facebook.net#TH-TRUE-GAME-01"},
-  {"subEdit": "vless://72ffefe9-fb6a-4620-bfdd-a00f76c9c849@45.144.165.113:8000?type=grpc&serviceName=vip2.khunaungphyo.shop&authority=&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=connect.facebook.net#TH-TRUE-GAME-02"},
+  {"subEdit": "vless://72ffefe9-fb6a-4620-bfdd-a00f76c9c849@45.144.165.113:8000?security=tls&encryption=none&headerType=&type=grpc&serviceName=vip2.khunaungphyo.shop&sni=connect.facebook.net&alpn=h2%2Chttp%2F1.1#TH-TRUE-GAME-02"},
   {"subEdit": "vless://ea933d0a-b74c-40c3-a997-80f062c626c9@45.144.165.123:8000?type=grpc&serviceName=vip3.khunaungphyo.shop&authority=&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=connect.facebook.net#TH-TRUE-GAME-03"},
   {"subEdit": "vless://e1f7280e-0122-486e-b688-40475308d1f8@45.144.165.120:8000?type=grpc&serviceName=vip4.khunaungphyo.shop&authority=&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=connect.facebook.net#TH-TRUE-GAME-04"},
   {"subEdit": "vless://edcbcb2b-4f1f-4eb9-9f2a-b2d325a38236@172.66.0.157:80?type=ws&path=%2F&host=vip1.khunaungphyo.shop&security=none#TH-TRUE-TRUEID-01"},
