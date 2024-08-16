@@ -1,7 +1,12 @@
 {
   "deviceIds": [
-    "device_id_12345",
-    "7ffb588b01dbc6ed",
-    "device_id_abcdef"
+    {
+      "deviceId": "device_id_12345",
+      "expirationDate": "2024-12-31"
+    },
+    {
+      "deviceId": "device_id_67890",
+      "expirationDate": "2025-06-30"
+    },
   ]
 }
