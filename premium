@@ -2,7 +2,8 @@
   "deviceIds": [
     {
       "deviceId": "device_id_12345",
-      "expirationDate": "2024-12-31"
+      "expirationDate": "2024-12-31",
+      "username": "Htet Linn"
     },
     {
       "deviceId": "7ffb588b01dbc6ed",
