@@ -1,14 +1,7 @@
-[
-  {
-    "device_id": "device_001",
-    "premium": true
-  },
-  {
-    "device_id": "device_002",
-    "premium": false
-  },
-  {
-    "device_id": "device_003",
-    "premium": true
-  }
-]
+{
+  "deviceIds": [
+    "device_id_12345",
+    "device_id_67890",
+    "device_id_abcdef"
+  ]
+}
