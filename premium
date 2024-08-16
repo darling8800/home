@@ -1,18 +1,14 @@
 [
   {
-    "username": "user1",
     "device_id": "device_001",
-    "expiry": "2024-12-31"
+    "premium": true
   },
   {
-    "username": "user2",
     "device_id": "device_002",
-    "expiry": "2024-10-15"
+    "premium": false
   },
   {
-    "username": "user3",
     "device_id": "device_003",
-    "expiry": "2024-09-01"
-  },
-  ...
+    "premium": true
+  }
 ]
