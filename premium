@@ -1,13 +1,13 @@
 {
   "deviceIds": [
     {
-      "deviceId": "device_id_12345",
-      "expirationDate": "20241231",
-      "username": "Htet Linn"
+      "deviceId": "7ffb588b01dbc6ed",
+      "expirationDate": "2024/12/31",
+      "username": "Aung Linn"
     },
     {
-      "deviceId": "7ffb588b01dbc6ed",
-      "expirationDate": "20240630",
+      "deviceId": "7ffb588b01dbc6",
+      "expirationDate": "2024/06/30",
       "username": "Htet Naing Linn"
     },
   ]
