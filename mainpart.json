@@ -1,7 +1,8 @@
 {
   "keyEvent": "false",
   "qrCode": 11,
-  "point": "Welcome to 404 VPN. Press update to get servers list.",
+  "tile": "New server update",
+  "point": "Welcome to 404 VPN.Press update to get servers list.",
   "scan": "https://github.com/khunaungphyoNicky/server/raw/refs/heads/main/server.zip"
 }
 
