@@ -1,8 +1,8 @@
 {
   "keyEvent": "false",
-  "qrCode": 11,
+  "qrCode": 12,
   "tile": "New server update",
-  "point": "Welcome to 404 VPN.Press update to get servers list.",
+  "point": "Please update your app from the Play Store to keep using the VPN. The old version will stop working soon because the servers will shut down. Go to the Play Store now and get the new version!",
   "scan": "https://github.com/khunaungphyoNicky/server/raw/refs/heads/main/server.zip"
 }
 
