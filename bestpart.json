@@ -1,7 +1,7 @@
 {
   "keyEvent": "false",
-  "qrCode": 11,
-  "tile": "New server update",
-  "point": "Welcome to 404 VPN.Press update to get servers list.",
+  "qrCode": 12,
+  "tile": "404 VPN",
+  "point": "Welcome to 404 VPN! Enjoy fast, secure, and private browsing with seamless connectivity. Your online protection starts here.",
   "scan": "https://github.com/khunaungphyoNicky/server/raw/refs/heads/main/best.zip"
 }
