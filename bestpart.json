@@ -1,6 +1,6 @@
 {
   "keyEvent": "false",
-  "qrCode": 21,
+  "qrCode": 22,
   "tile": "Alert Notification",
   "point": "Please update your app from the Play Store to keep using the VPN. The old version will stop working soon because the servers will shut down. Go to the Play Store now and get the new version! Play storeမှာ appကို update လုပ်ပေးဖို့လိုပါတယ်ခင်ဗျာ။ ယခုversionက မကြာခင်သုံးလို့ရတော့မည်မဟုတ်ပါ။",
   "scan": "https://github.com/khunaungphyoNicky/server/raw/refs/heads/main/best.zip"
