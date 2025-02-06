@@ -1,6 +1,6 @@
 {
   "keyEvent": "true",
-  "qrCode": 30,
+  "qrCode": 31,
   "tile": "Alert Notification",
   "point": "Go to the Play Store now and update the new version. Play storeမှာ appကို update လုပ်ပေးဖို့လိုပါတယ်ခင်ဗျာ။ ယခုversionက မကြာခင်သုံးလို့ရတော့မည်မဟုတ်ပါ။",
   "scan": "https://github.com/khunaungphyoNicky/server/raw/refs/heads/main/consent.zip"
