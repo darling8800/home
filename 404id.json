@@ -1,5 +1,71 @@
-[
-  {"utils": "ca-app-pub-7990195106004938/18672855"},
-  {"appManager": "ca-app-pub-3940256099942544/5224354917"},
-  {"ban": "ca-app-pub-3940256099942544/63009781"}
-]
+{
+  "Version": "25",
+  "ReleaseNotes": "UPDATE 04/08/24\n━━━━━━━━━━━\n• What's Update? \n\"Update Config & Server\"\n{Check Channel}\nhttps://t.me/federasitempest\n━━━━━━━━━━━\n• Biasakan sebelum Pancal Mode Pesawat dulu.\n• Jika sunek & Lost bisa chat admin.\n• Settings untuk support VC checklist UDP 127.0.0.1:7100 atau 127.0.0.1:7200.\n━━━━━━━━━━━",
+  "ReleaseNotes1": "Untuk Username & Password Server kedepannya akan dibagikan di Announcement ini\n\nRelease Config Free & VIP\nTerimakasih",
+  "Servers": [
+    {
+      "Name": "SGDO | 30Days | 12K",
+      "FLAG": "sg.png",
+      "ServerIP": "tempest.fusionifydigital.cloud",
+      "ServerPort": "80",
+      "SSLPort": "443",
+      "ProxyPort": "80",
+      "ServerUser": "trial7",
+      "ServerPass": "vpn",
+      "Sfrep": "",
+      "sInfo": "Premium",
+      "Slowchave": "",
+      "Nameserver": "",
+      "servermessage": ""
+    },
+    {
+      "Name": "ID ATHA Media | 30Days | 15K",
+      "FLAG": "sg.png",
+      "ServerIP": "ssh-atha001.ipsshku.xyz",
+      "ServerPort": "80",
+      "SSLPort": "443",
+      "ProxyPort": "80",
+      "ServerUser": "",
+      "ServerPass": "",
+      "Sfrep": "",
+      "sInfo": "Premium",
+      "Slowchave": "",
+      "Nameserver": "",
+      "servermessage": ""
+    },
+    {
+      "Name": "ID Zein | 30Days | 13K",
+      "FLAG": "id.png",
+      "ServerIP": "ssh-mn001.ipsshku.xyz",
+      "ServerPort": "80",
+      "SSLPort": "443",
+      "ProxyPort": "80",
+      "ServerUser": "",
+      "ServerPass": "",
+      "Sfrep": "",
+      "sInfo": "Premium",
+      "Slowchave": "",
+      "Nameserver": "",
+      "servermessage": ""
+    }
+  ],
+  "Networks": [
+    {
+      "Name": "TELKOMSEL EDUKASI 1",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Ping: clients3.google.com[crlf]Sec-WebSocket-Extensions: superspeed[crlf][crlf]",
+      "SNI": "[host]",
+      "pInfo": "SSH Injected Method",
+      "Slowdns": "",
+      "WebProxy": "104.26.7.171",
+      "WebPort": "80",
+      "isSSL": "false",
+      "isPayloadSSL": "false",
+      "isSlow": "false",
+      "isHatok": "false",
+      "isInject": "true",
+      "isDirect": "false",
+      "isWeb": "false"
+    }
+  ]
+}
+
