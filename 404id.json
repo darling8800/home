@@ -32,21 +32,6 @@
       "Slowchave": "",
       "Nameserver": "",
       "servermessage": ""
-    },
-    {
-      "Name": "ID Zein | 30Days | 13K",
-      "FLAG": "id.png",
-      "ServerIP": "ssh-mn001.ipsshku.xyz",
-      "ServerPort": "80",
-      "SSLPort": "443",
-      "ProxyPort": "80",
-      "ServerUser": "",
-      "ServerPass": "",
-      "Sfrep": "",
-      "sInfo": "Premium",
-      "Slowchave": "",
-      "Nameserver": "",
-      "servermessage": ""
     }
   ],
   "Networks": [
