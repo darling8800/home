@@ -1,7 +1,7 @@
 {
   "keyEvent": "true",
-  "qrCode": 30,
-  "tile": "404 VPN",
-  "point": "Welcome to 404 VPN! Enjoy fast, secure, and private browsing with seamless connectivity. Your online protection starts here.",
+  "qrCode": 34,
+  "tile": "Tip and tricks",
+  "point": "Try to change server or press update server if internet is not working after connected to vpn",
   "scan": "https://github.com/khunaungphyoNicky/server/raw/refs/heads/main/action.zip"
 }
