@@ -1,8 +1,44 @@
 {
-  "keyEvent": "false",
-  "qrCode": 17,
-  "tile": "New server update",
-  "point": "Please update your app from the Play Store to keep using the VPN. The old version will stop working soon because the servers will shut down. Go to the Play Store now and get the new version!",
-  "scan": "https://github.com/khunaungphyoNicky/server/raw/refs/heads/main/server.zip"
+  
+"version": 56,
+"message": "เวอร์ชันไฟล์: 56 \n⚡️มีอะไรใหม่ \n⚡️ระบบSSH SSL SLOWDNS V2RAY \n⚡️🆕️แก้ไข ดีแทค ตามใจเกมส์",
+"fileUrl": "https://github.com/teamgomer/MAFIA-VPN/raw/refs/heads/main/mafia.json",
+
+"RewardAmount": 18,
+
+"messageWarning":"มีอะไรใหม่ ?\n• อัปเดตเซิฟเวอร์ใหม่ \n• ระบบSSH SlowDNS \n• แก้ไขข้อบกพร่องและอื่นๆ อีกมากมาย\n \nดูโปรเน็ตได้ที่ข้อมูลซิม❤️",
+"title":"ไม่สามารถใช้เวอร์ชันปัจจุบันต่อได้ คุณต้องอัปเกรด ",
+"link":"https://play.google.com/store/apps/details?id=com.mfmafia.vpn",
+"website":"https://play.google.com/store/apps/details?id=com.mfmafia.vpn",
+"versionCode": 1,
+
+"files": [
+
+{
+
+         "name": "TH-FREE-01",
+
+         "url": "http://45.144.167.42:82/server/online_app.json"
+
+      },
+
+  {
+
+         "name": "TH-FREE-02",
+
+         "url": "http://45.144.167.43:82/server/online_app.json"
+
+      },
+
+  {
+
+         "name": "TH-FREE-03",
+
+         "url": "http://45.144.167.189:82/server/online_app.json"
+
+      }
+
+   ]
+  
 }
 
