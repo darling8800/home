@@ -1,13 +1,13 @@
 {
   
-"version": 57,
-"message": "New Update Available",
-"fileUrl": "https://raw.githubusercontent.com/darling8800/home/refs/heads/main/testing2.json",
+"version": 58,
+"message": "Great news! A new server is now available for you. Connect now for a faster and more stable experience!",
+"fileUrl": "https://raw.githubusercontent.com/darling8800/home/refs/heads/main/production.json",
 
 "RewardAmount": 18,
 
-"messageWarning":"มีอะไรใหม่ ?\n• อัปเดตเซิฟเวอร์ใหม่ \n• ระบบSSH SlowDNS \n• แก้ไขข้อบกพร่องและอื่นๆ อีกมากมาย\n \nดูโปรเน็ตได้ที่ข้อมูลซิม❤️",
-"title":"ไม่สามารถใช้เวอร์ชันปัจจุบันต่อได้ คุณต้องอัปเกรด ",
+"messageWarning":"",
+"title":"",
 "link":"https://play.google.com/store/apps/details?id=com.boostvpn.net",
 "website":"https://play.google.com/store/apps/details?id=com.boostvpn.net",
 "versionCode": 1,
