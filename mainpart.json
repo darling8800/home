@@ -1,6 +1,6 @@
 {
   
-"version": 61,
+"version": 70,
 "message": "Great news! A new server is now available for you. Connect now for a faster and more stable experience!",
 "fileUrl": "https://raw.githubusercontent.com/darling8800/home/refs/heads/main/production3.json",
 
@@ -18,7 +18,7 @@
 
          "name": "TH-FREE-01",
 
-         "url": "http://45.144.167.42:82/server/online_app.json"
+         "url": "http://45/server/online_app.json"
 
       },
 
@@ -26,7 +26,7 @@
 
          "name": "TH-FREE-02",
 
-         "url": "http://45.144.167.43:82/server/online_app.json"
+         "url": "http://45/server/online_app.json"
 
       },
 
@@ -34,7 +34,7 @@
 
          "name": "TH-FREE-03",
 
-         "url": "http://45.144.167.189:82/server/online_app.json"
+         "url": "http://45/server/online_app.json"
 
       }
 
