@@ -1,7 +1,0 @@
-{
-  "keyEvent": "true",
-  "qrCode": 35,
-  "tile": "Tip and tricks",
-  "point": "Try to change server or press update server if internet is not working after connected to vpn",
-  "scan": "https://github.com/darling8800/home/raw/refs/heads/main/action.zip"
-}
