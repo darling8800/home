@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "device_id": "VIP-A4B92E",
+      "premium_until": "2025-12-31"
+    },
+    {
+      "device_id": "VIP-6F3D2A",
+      "premium_until": "2099-01-01"
+    }
+  ]
+}
