@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "name": "US East Coast",
+    "location": "New York, USA",
+    "protocol": "VMess",
+    "ping": 45,
+    "status": "online",
+    "flag": "🇺🇸",
+    "config": "vmess://eyJhZGQiOiIxMC4xMC4xMC4xIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjEyMzQ1Njc4LTEyMzQtMTIzNC0xMjM0LTEyMzQ1Njc4OTBhYiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJVUyBFYXN0IENvYXN0IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
+    "lastUpdated": "2 hours ago"
+  },
+  {
+    "id": "2",
+    "name": "Singapore Premium",
+    "location": "Singapore, SG",
+    "protocol": "VLESS",
+    "ping": 12,
+    "status": "online",
+    "flag": "🇸🇬",
+    "config": "vless://12345678-1234-1234-1234-123456789012@10.10.10.2:443?encryption=none&flow=xtls-rprx-direct&security=xtls&sni=example.com&type=tcp&headerType=none#Singapore Premium",
+    "lastUpdated": "1 hour ago"
+  },
+  {
+    "id": "3",
+    "name": "Japan Tokyo",
+    "location": "Tokyo, Japan",
+    "protocol": "Trojan",
+    "ping": 28,
+    "status": "online",
+    "flag": "🇯🇵",
+    "config": "trojan://password123@10.10.10.3:443?security=tls&sni=example.com&type=tcp&headerType=none#Japan Tokyo",
+    "lastUpdated": "30 minutes ago"
+  },
+  {
+    "id": "4",
+    "name": "Germany Frankfurt",
+    "location": "Frankfurt, Germany",
+    "protocol": "VMess",
+    "ping": 67,
+    "status": "maintenance",
+    "flag": "🇩🇪",
+    "config": "vmess://eyJhZGQiOiIxMC4xMC4xMC40IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjEyMzQ1Njc4LTEyMzQtMTIzNC0xMjM0LTEyMzQ1Njc4OTBhYiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJHZXJtYW55IEZyYW5rZnVydCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
+    "lastUpdated": "1 day ago"
+  },
+  {
+    "id": "5",
+    "name": "UK London",
+    "location": "London, UK",
+    "protocol": "ShadowSocks",
+    "ping": 89,
+    "status": "online",
+    "flag": "🇬🇧",
+    "config": "ss://YWVzLTI1Ni1nY206cGFzc3dvcmQxMjM=@10.10.10.5:8388#UK London",
+    "lastUpdated": "45 minutes ago"
+  }
+]
